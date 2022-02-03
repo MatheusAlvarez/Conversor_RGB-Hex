@@ -6,11 +6,8 @@
 
 Projeto conversor de cores (RGB para Hexadecimal) e (Hexadecimal para RGB).
 
-## Layout mobile
-
-
-## Layout web
-
+## Layout 
+![W](https://github.com/MatheusAlvarez/Conversor_RGB-Hex/blob/main/_assets/web.png)
 
 
 # Tecnologias utilizadas
